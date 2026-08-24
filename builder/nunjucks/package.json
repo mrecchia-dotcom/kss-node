@@ -8,7 +8,7 @@
     "sass": "sass --style=compressed kss-assets/kss.scss kss-assets/kss.css"
   },
   "devDependencies": {
-    "highlight.js": "^11.0.0",
-    "sass": "^1.50.0"
+    "highlight.js": "^11.9.0",
+    "sass": "^1.69.5"
   }
 }
