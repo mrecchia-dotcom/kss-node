@@ -155,6 +155,7 @@ class KssBuilderBase {
       },
 
       'verbose': {
+        group: 'Options:',
         count: true,
         multiple: false,
         describe: 'Display verbose details while building'
